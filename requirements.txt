@@ -1,0 +1,13 @@
+snakemake =6.15.3
+samtools =1.13
+hisat2 =2.2.1
+cutadapt =3.5.0
+r-data.table =1.14.2
+r-ggplot2 =3.3.5
+r-stringr =1.4.0
+r-ggrepel =0.9.1
+r-xtable
+bioconductor-edger =3.34.0
+subread =2.0.1
+bedtools =2.30.0
+pigz
